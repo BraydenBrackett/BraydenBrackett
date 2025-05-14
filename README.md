@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @BraydenBrackett
-- 👀 I’m interested in Machine Learning, Artifical Intelligence, Cybersecurity all with a focus on Data Analysis.
-- 🌱 I’m currently studying for my Bachelor's of Science in Computer Science - with a focus track on Macheine Learning and Data Science at Purdue University
-- 💞️ I’m looking to collaborate on any projects and research, see repos for past work.
-- 📫 You can always message me here or follow me on insta @brayden_brackett
+Hey, Brayden here. Welcome to my menagerie 
+
+Into a varitey of computing topics, but my current fascinations are data viz and computer graphics simulations.
+
+BS in CS at Purdue, formerly IBM and HPE, yada yada...
+
+If you see anything you like, feel free to msg me on linkedin :)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraydenBrackett&layout=compact&theme=tokyonight) 
+
+_born to program in c# forced to write in java smh :(_
+
 
 <!---
 BraydenBrackett/BraydenBrackett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
