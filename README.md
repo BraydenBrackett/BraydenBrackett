@@ -2,7 +2,7 @@ Welcome to the menagerie
 
 Into a varitey of computing topics, but my current fascinations are data viz and computer graphics simulations.
 
-BS in CS at Purdue, formerly IBM and HPE, yada yada...
+BS in CS at Purdue, formerly IBM, HPE, now at Visa
 
 If you see anything you like, feel free to msg me on linkedin :)
 
