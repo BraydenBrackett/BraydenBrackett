@@ -1,4 +1,4 @@
-Hey, Brayden here. Welcome to my menagerie 
+Welcome to the menagerie 
 
 Into a varitey of computing topics, but my current fascinations are data viz and computer graphics simulations.
 
