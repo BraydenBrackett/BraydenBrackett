@@ -1,4 +1,4 @@
-Welcome to the menagerie 
+Welcome to the menagerie!
 
 Into a varitey of computing topics, but my current fascinations are data viz and computer graphics simulations.
 
@@ -8,7 +8,6 @@ If you see anything you like, feel free to msg me on linkedin :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraydenBrackett&layout=compact&theme=tokyonight) 
 
-_born to program in c# forced to write in java smh :(_
 
 
 <!---
