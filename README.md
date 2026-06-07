@@ -1,14 +1,10 @@
-Welcome to the menagerie!
+Yeah lowkey not much gets posted here lol
 
 Into a varitey of computing topics, but my current fascinations are data viz and computer graphics simulations.
 
 BS in CS at Purdue, formerly IBM, HPE, now at Visa
 
 If you see anything you like, feel free to msg me on linkedin :)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraydenBrackett&layout=compact&theme=tokyonight) 
-
-
 
 <!---
 BraydenBrackett/BraydenBrackett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
